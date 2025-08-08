@@ -19,11 +19,11 @@ redirect_from:
 
 ### **About Me**  
 
-Hello! I'm Qiwei Liang (梁棋炜), a senior undergraduate student majoring in Robotics Engineering at Shenzhen University, expected to graduate in July 2026. Currently, I am conducting research at the Institute of Artificial Intelligence, Shenzhen MSU-BIT University, under the supervision of [Runhao Zeng](https://scholar.google.com.sg/citations?user=s3X4YHwAAAAJ&hl=en).  
+Hello! I'm Qiwei Liang (梁棋炜), a senior undergraduate student majoring in Robotics Engineering at Shenzhen University, expected to graduate in July 2026. Currently, I am conducting research at the Humanoid Computing Lab, HKUST(gz), under the supervision of [Renjing Xu](https://scholar.google.com/citations?user=Mu__bJEAAAAJ&hl=en). Previously, I conducted research at the Institute of Artificial Intelligence, Shenzhen MSU-BIT University, under the supervision of [Runhao Zeng](https://scholar.google.com.sg/citations?user=s3X4YHwAAAAJ&hl=en).  
 
 Before diving into research, I was an IoT enthusiast dedicated to developing IoT products with the goal of improving people's lives. I was also the **national champion**, of the China Collegiate IoT Design Competition.  
 
-My research interests lie in **Embodied AI**, particularly in **Robotic Manipulation** (VLA, LLM, RL), **3D Scene Understanding**, and **Whole-Body Control**. Fundamentally, my work revolves around **infusing intelligence into machines**.  
+My research interests lie in **Embodied AI**, particularly in **Robotic Manipulation** (VLA, VA, RL), **Robot Learning**, and **Whole-Body Control**. Fundamentally, my work revolves around **infusing intelligence into machines**.  
 
 # 🎓 Education
 
