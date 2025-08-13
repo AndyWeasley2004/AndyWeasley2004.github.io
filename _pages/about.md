@@ -38,7 +38,7 @@ My research interests lie in **Embodied AI**, particularly in **Robotic Manipula
 # 📜 Publication
 
 **2025**
-- **Qiwei Liang**, Boyang Cai, Rongyi He, Hui Li, Tao Teng, Haihan Duan, Changxin Huang, Runhao Zeng, **Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators**, (under review), [[project page]](https://kolakivy.github.io/DQ/)
+- **Qiwei Liang**, Boyang Cai, Rongyi He, Hui Li, Tao Teng, Haihan Duan, Changxin Huang, Runhao Zeng, **Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators**, (under review), [[paper]](https://arxiv.org/abs/2508.08328), [[project page]](https://kolakivy.github.io/DQ/)
 - Tianxing Chen, Zanxin Chen, Baijun Chen, Zijian Cai, **Qiwei Liang**, Zixuan Li, Xianliang Lin, Yiheng Ge, Yibin Liu, Zhenyu Gu, Weiliang Deng, Yubin Guo, Tian Nian, Xuanbing Xie, Qiangyu Chen, KailunSu, Tianling Xu, Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, Xiaokang Yang, Ping Luo, Yao Mu, **RoboTwin 2.0: Autonomous Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation**, (under review), [[paper]](https://arxiv.org/abs/2506.18088), [[project page]](https://robotwin-platform.github.io/)
 - Mengkang Hu, Tianxing Chen, Yude Zou, Yuheng Lei, Qiguang Chen, Ming Li, **Qiwei Liang**, Yao Mu, Hongyuan Zhang, Wenqi Shao, Ping Luo, **Text2World: Benchmarking Large Language Models for Symbolic World Model Generation**, (ICLR W 2025), [[paper]](https://openreview.net/pdf?id=dIQNOxuBay), [[project page]](https://text-to-world.github.io/)
 
