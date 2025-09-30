@@ -1,0 +1,8 @@
+<div class="video-container">
+  {% case include.provider %}
+    {% when "youtube" %}
+      <iframe src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+    {% when "vimeo" %}
+      <iframe src="https://player.vimeo.com/video/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+  {% endcase %}
+</div>
