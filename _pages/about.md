@@ -49,12 +49,14 @@ I was also a instructional apprentice for Cogs 18 (Intro to Python) and grader f
 - *2025.06 - 2025.09*, Independent Research, **Mentor: Ke Chen and Taylor Berg-Kirkpatrick**
 
 # 📚 Teaching Experience
+
 - *2023.09 - 2023.12*, Instructional Apprentice, **Intro to Python (Cogs 18)** with Professor **Eric Morgan**
 - *2024.04 - 2024.06*, Grader, **Discrete Math and Graph Theory (Math 154)** with Professor **William Wesley**
 - *2024.09 - 2024.12*, Grader, **Intro to Differential Equations (Math 20D)** with Professor **Rishabh Dixit**
 
 
 # 🥇 Awards
+
 - **Chinese Musicians’ Association (CMA) Piano Graded Examination (Amateur), Level 10 Certificate**, 2015
 - **UCSD Provost Honor (2022-2025)**, 2022-2025
 - **UCSD Health Student Research Assistant Summer Fellowship Provost Honor**, 2024.08
