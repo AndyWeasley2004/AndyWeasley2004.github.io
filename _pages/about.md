@@ -21,7 +21,7 @@ redirect_from:
 
 Hello! My name is **Mingyang Yao (姚铭洋)**. I am at my senior year of Mathematics-Computer Science and Cognitive Science at UCSD. I'm very interested in **symbolic music generation** and **music information retrieval**, exploring on processing of music in audio domain and multi-modality music model and focus on particularly how to design AI system that aligns with humans' creative practice.
 
-I was fortunate to be advised by wonderful mentor [Ke Chen](https://www.knutchen.com/) on my composer-conditioned symbolic music generation and symbolic chord recognition research. I was adviced by Professor [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/]) for my chord recognition project as well. Outside my AI music interest, I also lead data analysis project in psychiatry and involve other data mining projects under mentorship of Professor [Francesca Telese](https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr)
+I was fortunate to be advised by wonderful mentor [Ke Chen](https://www.knutchen.com/) on my composer-conditioned symbolic music generation and symbolic chord recognition research. I was adviced by Professor [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) for my chord recognition project as well. Outside my AI music interest, I also lead data analysis project in psychiatry and involve other data mining projects under mentorship of Professor [Francesca Telese](https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr)
 
 I was also a instructional apprentice for Cogs 18 (Intro to Python) and grader for Math 154 (Discrete Math and Graph Theory) with and Math 20D (Intro to Differential Equation) and provide academic supports for over 300 students. I received 100% recommendation rate for Cogs 18 and excellent review from instructors.
 
@@ -62,8 +62,21 @@ I was also a instructional apprentice for Cogs 18 (Intro to Python) and grader f
 
 # 🎹 Favorite Piano Pieces
 
-Video:
-{% include video.html id="dQw4w9WgXcQ" provider="youtube" %}
+**Classical**
+- [Chopin Ballade No.1, Op.23, Zimerman version](https://www.youtube.com/watch?v=BSFNl4roGlI&list=RDBSFNl4roGlI&start_radio=1)
+- [Chopin Concerto No.1, Op.11 , Argerich version](https://www.youtube.com/watch?v=gV_x_QY1P5c&list=RDgV_x_QY1P5c&start_radio=1)
+- [Chopin Nocturne, Op.27 No.2](https://www.youtube.com/watch?v=Y7UTWYO25Y4&list=RDY7UTWYO25Y4&start_radio=1)
+- [Chopin Nocturne Op.48, No.1, Rubinstein version](https://www.youtube.com/watch?v=h_vZtpjNKVE&list=RDh_vZtpjNKVE&start_radio=1)
+- [Schumann Kinderszenen Op.15](https://www.youtube.com/watch?v=yibf6QNjgGU&list=RDyibf6QNjgGU&start_radio=1)
+- [Mozart Piano Concerto No. 20, K. 466](https://www.youtube.com/watch?v=yM8CFR01KwQ&list=RDyM8CFR01KwQ&start_radio=1)
+
+**Anime Piano Arrangement**
+- Favorite Pop Piano Overall: [My Dearest (2020 version)](https://www.youtube.com/watch?v=lAXJPop9LaY)
+- Good Coda:
+  - [Crying for Rain](https://www.youtube.com/watch?v=TyjgGSTA0QQ)
+  - [The Everlasting Guilty Crown](https://www.youtube.com/watch?v=ozDObIWJ4NA)
+- Vivid Imagery: [Will - Violet Evergarden](https://www.youtube.com/watch?v=QJfXc0YZkT8)
+- Most Peaceful: [Michishirube - Violet Evergarden](https://www.youtube.com/watch?v=Vit_RIHhDMg)
 
 ---
 
