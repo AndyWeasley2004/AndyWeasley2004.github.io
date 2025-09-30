@@ -6,14 +6,18 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Research Experience"
-    url: "/#-research-experience"
-
   - title: "Publication"
     url: "/#-publication"
 
-  - title: "Others"
-    url: "/#-others"
+  - title: "Research Experience"
+    url: "/#-research-experience"
 
-  - title: "Startup Projects"
-    url: "/#-startup-projects"
+  - title: "Teaching Experience"
+    url: "/#-teaching-experience"
+
+  - title: "Awards and Certificates"
+    url: "/#-awards-and-certificates"
+
+  - title: "Favorite Pieces"
+    url: "/#-favorite-pieces"
+

@@ -480,6 +480,21 @@ a.reversefootnote {
   padding-top: 30px;
   height: 0;
   overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+  @include breakpoint($medium) {
+    width: 50%;
+  }
+
+  @include breakpoint($large) {
+    width: 45%;
+  }
+
+  @include breakpoint($x-large) {
+    width: 40%;
+  }
   iframe,
   object,
   embed {
