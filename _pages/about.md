@@ -55,7 +55,7 @@ I was also a instructional apprentice for Cogs 18 (Intro to Python) and grader f
 - *2024.09 - 2024.12*, Grader, **Intro to Differential Equations (Math 20D)** with Professor **Rishabh Dixit**
 
 
-# 🥇 Awards
+# 🥇 Awards and Certificates
 
 - **Chinese Musicians’ Association (CMA) Piano Graded Examination (Amateur), Level 10 Certificate**, 2015
 - **UCSD Provost Honor (2022-2025)**, 2022-2025
