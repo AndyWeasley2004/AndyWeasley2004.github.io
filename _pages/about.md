@@ -60,11 +60,10 @@ I was also a instructional apprentice for Cogs 18 (Intro to Python) and grader f
 - **UCSD Health Student Research Assistant Summer Fellowship Provost Honor**, 2024.08
 
 
-# 🎹 Hobby
-- I like sports.
+# 🎹 Favorite Pieces
 
 Video:
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+{% include video.html id="dQw4w9WgXcQ" provider="youtube" %}
 
 ---
 
