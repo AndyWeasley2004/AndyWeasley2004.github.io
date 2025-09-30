@@ -25,23 +25,39 @@ I was fortunate to be advised by wonderful mentor [Ke Chen](https://www.knutchen
 
 I was also a instructional apprentice for Cogs 18 (Intro to Python) and grader for Math 154 (Discrete Math and Graph Theory) with and Math 20D (Intro to Differential Equation) and provide academic supports for over 300 students. I received 100% recommendation rate for Cogs 18 and excellent review from instructors.
 
+**I'm seeking PhD positions in AI Music area in any related department in Fall 2026.**
+
 # 🎓 Education
 
-- *2022.09 - 2026.06 (expected)*, B.S. in Mathematics-Computer Science, UC San Diego.
-- *2022.09 - 2026.06 (expected)*, B.S. in Cognitive Science (Machine Learning and Neural Computation) , UC San Diego.
+- *2022.09 - 2025.12 (expected)*, B.S. in Mathematics-Computer Science, UC San Diego.
+- *2022.09 - 2025.12 (expected)*, B.S. in Cognitive Science (Machine Learning and Neural Computation) , UC San Diego.
 
 # 📜 Publication
 
 **2025**
 - **Mingyang Yao**, Ke Chen, **From Generality to Mastery: Composer‑Style Symbolic Music Generation via Large‑Scale Pre‑training**, (AIMC 2025; Oral Presentation), [[paper](https://arxiv.org/abs/2506.17497), [demo page](https://generality-mastery.github.io/), [code](https://github.com/AndyWeasley2004/Generality-to-Mastery)]
 
+- **Mingyang Yao**, Ke Chen, Shlomo Dubnov, Taylor Berg-Kirkpatrick, **BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked Iterative Decoding on Pop and Classical Music**, (Under Review), [Paper, Code and Demo are under construction]
+
+- **Mingyang Yao<sup>*</sup>**, Avraham M Libster<sup>*</sup> , Shane Desfor, Freiya Malhotra, Nathalia Castorena, Patricia Montilla-Perez, Francesca Telese, **The development of FEDUPP: Feeding Experimentation Device Users Processing Package to Assess Learning and Cognitive Flexibility**, (Under Review), [[paper](https://www.biorxiv.org/content/10.1101/2025.08.14.670424v1.abstract), [code](https://github.com/ftlabucsd/FED3-data)]
+
 
 # 💼 Research Experience
 
-- *2024.01 - Present*, Research Intern, **Some Lab**.
+- *2023.09 - Present*, Undergraduate Research Assistant, **Telese Lab**
+- *2024.02 - 2025.04*, Independent Research, **Mentor: Ke Chen**
+- *2025.06 - 2025.09*, Independent Research, **Mentor: Ke Chen and Taylor Berg-Kirkpatrick**
+
+# 📚 Teaching Experience
+- *2023.09 - 2023.12*, Instructional Apprentice, **Intro to Python (Cogs 18)** with Professor **Eric Morgan**
+- *2024.04 - 2024.06*, Grader, **Discrete Math and Graph Theory (Math 154)** with Professor **William Wesley**
+- *2024.09 - 2024.12*, Grader, **Intro to Differential Equations (Math 20D)** with Professor **Rishabh Dixit**
+
 
 # 🥇 Awards
-- **Example Award**, 2024
+- **Chinese Musicians’ Association (CMA) Piano Graded Examination (Amateur), Level 10 Certificate**, 2015
+- **UCSD Provost Honor (2022-2025)**, 2022-2025
+- **UCSD Health Student Research Assistant Summer Fellowship Provost Honor**, 2024.08
 
 
 # 🎹 Hobby
@@ -49,7 +65,4 @@ I was also a instructional apprentice for Cogs 18 (Intro to Python) and grader f
 
 ---
 
-<div id="clustrmaps-container" style="width: 400px; height: 300px; overflow: hidden;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4oBE-t6H8XcmpYkIWQadW_Rz5o4c2gRM6pcJ5AydSy0&cl=ffffff&w=a"></script>
-</div>
-
+*Last Updated: October, 2025*
