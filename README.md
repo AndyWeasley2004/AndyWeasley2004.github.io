@@ -1,22 +1,17 @@
 
 ### Hi there 👋
 
-Personal Web: https://kolakivy.github.io
+This is a template for an academic personal homepage.
 
-<!--
-**jinyeying/jinyeying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal Web: https://AndyWeasley2004.github.io
 
-Here are some ideas to get you started:
+## Quick Start
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![](https://komarev.com/ghpvc/?username=kolakivy&style=plastic&color=green)
+If you see the following error
+> `No GitHub API authentication provided...`
+It is because the api of github has a limit of 60 times per hour. So, you can see this error if you refresh your page many times. The solution is to add the following code to your `_config.yml` file. And you can get your token from here: https://github.com/settings/tokens
+```yml
+github:
+  token: "your token"
+```
+![](https://komarev.com/ghpvc/?username=AndyWeasley2004&style=plastic&color=green)

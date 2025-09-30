@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "qiwei liang (梁棋炜)"
-description: "Undergraduate Student @ Shenzhen University\n   \nMajoring in Robotics Engineering"
-repository               : "kolakivy.github.io"
+title                    : "Mingyang Yao"
+description              : "Undergraduate Student @ University of California San Diego"
+repository               : "AndyWeasley2004.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qiwei Liang"
-  avatar           : "images/kivy_head.png"
+  name             : "Mingyang Yao"
+  # Update this with your photo
+  avatar           : "images/profile.png"
   bio              : 
-  location         : "Shenzhen, China"
+  location         : "San Diego, CA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?user=1W24GsQAAAAJ&hl=en"
-  email            : "Kola337599@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=sBRCuJYAAAAJ&hl=en"
+  email            : 
   researchgate     : 
   uri              :
   bitbucket        :
@@ -37,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KolaKivy"
+  github           : "AndyWeasley2004"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Qiwei Liang"
+  linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
