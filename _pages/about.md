@@ -60,7 +60,7 @@ I was also a instructional apprentice for Cogs 18 (Intro to Python) and grader f
 - **UCSD Health Student Research Assistant Summer Fellowship Provost Honor**, 2024.08
 
 
-# 🎹 Favorite Pieces
+# 🎹 Favorite Piano Pieces
 
 Video:
 {% include video.html id="dQw4w9WgXcQ" provider="youtube" %}
