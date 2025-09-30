@@ -63,6 +63,9 @@ I was also a instructional apprentice for Cogs 18 (Intro to Python) and grader f
 # 🎹 Hobby
 - I like sports.
 
+Video:
+{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+
 ---
 
 *Last Updated: October, 2025*
