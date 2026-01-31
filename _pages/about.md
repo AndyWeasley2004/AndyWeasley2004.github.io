@@ -21,19 +21,19 @@ redirect_from:
 
 Hello! My name is **Mingyang Yao (姚铭洋)**. I am at my senior year of Mathematics-Computer Science and Cognitive Science at UCSD. I'm very interested in **symbolic music generation** and **music information retrieval**, exploring on processing of music in audio domain and multi-modality music model and focus on particularly how to design AI system that aligns with humans' creative practice.
 
-I was fortunate to be advised by wonderful mentor [Ke Chen](https://www.knutchen.com/) on my composer-conditioned symbolic music generation and symbolic chord recognition research. I was adviced by Professor [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) for my chord recognition project as well. Outside my AI music interest, I also lead data analysis project in psychiatry and involve other data mining projects under mentorship of Professor [Francesca Telese](https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr)
+I was fortunate to be advised by a wonderful mentor [Ke Chen](https://www.knutchen.com/) on my composer-conditioned symbolic music generation and symbolic chord recognition research. I was advised by Professor [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) for my chord recognition project as well. Outside my AI music interest, I also lead a data analysis project in psychiatry and involve other data mining projects under the mentorship of Professor [Francesca Telese](https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr)
 
 I was also an instructional apprentice for Cogs 18 (Intro to Python) and grader for Math 154 (Discrete Math and Graph Theory) with and Math 20D (Intro to Differential Equation), and provide academic supports for over 300 students. I received 100% recommendation rate for Cogs 18 and an excellent review from instructors.
 
 **I'm seeking PhD positions in the AI Music area in any related department in Fall 2026.**
 
 # 🔥 News
-- 01-2026, I have officially graduated from UCSD!
+- 01-2026, I have officially graduated from UCSD with Cum Laude honor!
 
 # 🎓 Education
 
 - *2022.09 - 2025.12*, B.S. in Mathematics-Computer Science, UC San Diego.
-- *2022.09 - 2025.12*, B.S. in Cognitive Science (Machine Learning and Neural Computation) , UC San Diego.
+- *2022.09 - 2025.12*, B.S. in Cognitive Science (Machine Learning and Neural Computation), UC San Diego.
 
 # 📜 Publication
 
@@ -58,21 +58,21 @@ I was also an instructional apprentice for Cogs 18 (Intro to Python) and grader 
 # 💼 Research Experience
 
 - *2023.09 - Present*, Undergraduate Research Assistant, **Telese Lab**
-- *2024.02 - 2025.04*, Independent Research, **Mentor: Ke Chen**
 - *2025.06 - 2025.09*, Independent Research, **Mentor: Ke Chen and Taylor Berg-Kirkpatrick**
+- *2024.02 - 2025.04*, Independent Research, **Mentor: Ke Chen**
 
 # 📚 Teaching Experience
 
-- *2023.09 - 2023.12*, Instructional Apprentice, **Intro to Python (Cogs 18)** with Professor **Eric Morgan**
-- *2024.04 - 2024.06*, Grader, **Discrete Math and Graph Theory (Math 154)** with Professor **William Wesley**
 - *2024.09 - 2024.12*, Grader, **Intro to Differential Equations (Math 20D)** with Professor **Rishabh Dixit**
+- *2024.04 - 2024.06*, Grader, **Discrete Math and Graph Theory (Math 154)** with Professor **William Wesley**
+- *2023.09 - 2023.12*, Instructional Apprentice, **Intro to Python (Cogs 18)** with Professor **Eric Morgan**
 
 
 # 🥇 Awards and Certificates
 
-- **Chinese Musicians’ Association (CMA) Piano Graded Examination (Amateur), Level 10 Certificate**, 2015
-- **UCSD Provost Honor (2022-2025)**, 2022-2025
 - **UCSD Health Student Research Assistant Summer Fellowship Provost Honor**, 2024.08
+- **UCSD Provost Honor (2022-2025)**, 2022-2025
+- **Chinese Musicians’ Association (CMA) Piano Graded Examination (Amateur), Level 10 Certificate**, 2015
 
 
 # 🎹 Favorite Piano Pieces
