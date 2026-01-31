@@ -28,7 +28,7 @@ I was also an instructional apprentice for Cogs 18 (Intro to Python) and grader 
 **I'm seeking PhD positions in the AI Music area in any related department in Fall 2026.**
 
 # 🔥 News
-- I have officially graduated from UCSD!
+- 01-2026, I have officially graduated from UCSD!
 
 # 🎓 Education
 
