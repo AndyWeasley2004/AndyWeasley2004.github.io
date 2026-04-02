@@ -32,4 +32,4 @@ Previously, I finished my double major of Mathematics-Computer Science and Cogni
 
 ---
 
-*Last Updated: April, 2026*
+*Last Updated: April 2026*
