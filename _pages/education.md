@@ -12,6 +12,7 @@ author_profile: true
 
 - **B.S., UC San Diego**  
   *2022.09 - 2025.12*  
-  Majors: Mathematics-Computer Science and Cognitive Science with specialization in Machine Learning and Neural Computation  
+  Mathematics-Computer Science
+  Cognitive Science with specialization in Machine Learning and Neural Computation  
   GPA: 3.93 - Cum Laude  
   Advisors: Dr. Ke Chen, Prof. Taylor Berg-Kirkpatrick, Prof. Shlomo Dubnov
