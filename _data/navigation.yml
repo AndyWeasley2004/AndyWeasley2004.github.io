@@ -1,23 +1,23 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/education/"
 
   - title: "Publication"
-    url: "/#-publication"
+    url: "/publication/"
 
   - title: "Research Experience"
-    url: "/#-research-experience"
+    url: "/research-experience/"
 
   - title: "Teaching Experience"
-    url: "/#-teaching-experience"
+    url: "/teaching-experience/"
 
   - title: "Awards and Certificates"
-    url: "/#-awards-and-certificates"
+    url: "/awards-and-certificates/"
 
   - title: "Favorite Piano Pieces"
-    url: "/#-favorite-piano-pieces"
+    url: "/favorite-piano-pieces/"
 
