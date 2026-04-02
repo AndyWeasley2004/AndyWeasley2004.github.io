@@ -14,7 +14,7 @@ author_profile: true
 
 - **BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked Iterative Decoding on Pop and Classical Music**  
   **Mingyang Yao**, Ke Chen, Shlomo Dubnov, Taylor Berg-Kirkpatrick  
-  ICASSP Under Review  
+  (ICASSP 2026) IEEE International Conference on Acoustics, Speech, and Signal Processing 2026
   [paper](https://arxiv.org/abs/2510.06528), [demo page](https://andyweasley2004.github.io/BACHI/), [code](https://github.com/AndyWeasley2004/BACHI_Chord_Recognition)
 
 - **The development of FEDUPP: Feeding Experimentation Device Users Processing Package to Assess Learning and Cognitive Flexibility**  

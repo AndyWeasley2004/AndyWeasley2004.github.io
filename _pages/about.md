@@ -19,14 +19,16 @@ redirect_from:
 
 # 🎵 About Me  
 
-Hello! My name is **Mingyang Yao (姚铭洋)**. I am at my senior year of Mathematics-Computer Science and Cognitive Science at UCSD. I'm very interested in **symbolic music generation** and **music information retrieval**, exploring on processing of music in audio domain and multi-modality music model and focus on particularly how to design AI system that aligns with humans' creative practice.
+Hello! My name is **Mingyang Yao (姚铭洋)**. I am incoming PhD student of [Audio Information Research Lab](https://labsites.rochester.edu/air/index.html) at University of Rochester under supervision of [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). My research interests lie in music generation, information retrieval and representation learning.
 
-I was fortunate to be advised by wonderful mentor [Ke Chen](https://www.knutchen.com/) on my composer-conditioned symbolic music generation and symbolic chord recognition research. I was adviced by Professor [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) for my chord recognition project as well. Outside my AI music interest, I also lead data analysis project in psychiatry and involve other data mining projects under mentorship of Professor [Francesca Telese](https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr)
+Previously, I finished my double major of Mathematics-Computer Science and Cognitive with specialization in Machine Learning and Neural Computation from UC San Diego. In UCSD, I was fortunate to be advised by wonderful mentor [Ke Chen](https://www.knutchen.com/). I was adviced by Professor [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) and [Shlomo Dubnov](https://scholar.google.com/citations?user=NJfiIl8AAAAJ&hl=en) as well. Outside my AI music interest, I also lead data analysis project in psychiatry and involve other data mining projects under supervision of Professor [Francesca Telese](https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr)
 
-I was also a instructional apprentice for Cogs 18 (Intro to Python) and grader for Math 154 (Discrete Math and Graph Theory) with and Math 20D (Intro to Differential Equation) and provide academic supports for over 300 students. I received 100% recommendation rate for Cogs 18 and excellent review from instructors.
 
-**I'm seeking PhD positions in AI Music area in any related department in Fall 2026.**
+# 🔥 News
+2026.03, I will join University of Rochester as ECE PhD student
+2026.02, I served as Program Chair (PC) in IJCAI AI and Health Track 2026.
+2025.12, I graduated from UCSD with Cum Laude!
 
 ---
 
-*Last Updated: October, 2025*
+*Last Updated: April, 2026*
