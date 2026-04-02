@@ -23,6 +23,7 @@ Hello! My name is **Mingyang Yao (姚铭洋)**. I am incoming PhD student of [Au
 
 Previously, I finished my double major of Mathematics-Computer Science and Cognitive with specialization in Machine Learning and Neural Computation from UC San Diego. In UCSD, I was fortunate to be advised by wonderful mentor [Ke Chen](https://www.knutchen.com/). I was adviced by Professor [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) and [Shlomo Dubnov](https://scholar.google.com/citations?user=NJfiIl8AAAAJ&hl=en) as well. Outside my AI music interest, I also lead data analysis project in psychiatry and involve other data mining projects under supervision of Professor [Francesca Telese](https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr)
 
+**For potential internship, collaboration and inquiries, please feel free to contact me!**
 
 # 🔥 News
 2026.03, I will join University of Rochester as ECE PhD student!  
