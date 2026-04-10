@@ -20,5 +20,5 @@ author_profile: true
 
 - **The development of FEDUPP: Feeding Experimentation Device Users Processing Package to Assess Learning and Cognitive Flexibility**  
   **Mingyang Yao<sup>*</sup>**, Avraham M Libster<sup>*</sup> , Shane Desfor, Freiya Malhotra, Nathalia Castorena, Patricia Montilla-Perez, Francesca Telese  
-  Nature Translatonal Psychiatry
+  Nature Translatonal Psychiatry  
   [paper](https://www.biorxiv.org/content/10.1101/2025.08.14.670424v1.abstract), [code](https://github.com/ftlabucsd/FED3-data)
