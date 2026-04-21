@@ -6,6 +6,8 @@ author_profile: true
 
 # 📜 Publication
 
+** denotes equal contribution *
+
 **2025**
 
 - **BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked Iterative Decoding on Pop and Classical Music**  

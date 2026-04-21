@@ -26,6 +26,7 @@ Previously, I finished my double major of Mathematics-Computer Science and Cogni
 **For potential internship, collaboration and inquiries, please feel free to contact me!**
 
 # 🔥 News
+* 2026.04, my FEDUPP paper is accepted by Translational Psychiatry, finishing all projects in my undergraduate!
 * 2026.03, I will join University of Rochester as ECE PhD student!  
 * 2026.02, I served as Program Chair (PC) in IJCAI AI and Health Track 2026.  
 * 2025.12, I graduated from UCSD with Cum Laude! 
