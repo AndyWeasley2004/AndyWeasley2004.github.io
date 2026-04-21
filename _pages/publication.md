@@ -4,9 +4,9 @@ title: "Publication"
 author_profile: true
 ---
 
-# 📜 Publication
+# 📜 Selective Publication
 
-** denotes equal contribution *
+**denotes equal contribution*
 
 **2025**
 
