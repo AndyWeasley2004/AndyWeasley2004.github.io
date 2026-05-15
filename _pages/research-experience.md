@@ -8,4 +8,4 @@ author_profile: true
 
 - *2025.06 - 2025.09*, Independent Research, **Mentor: Ke Chen and Taylor Berg-Kirkpatrick**
 - *2024.02 - 2025.04*, Independent Research, **Mentor: Ke Chen**
-- *2023.09 - Present*, Undergraduate Research Assistant, **Telese Lab**
+- *2023.09 - 2026.05*, Undergraduate Research Assistant, **Telese Lab**
