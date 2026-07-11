@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingyang Yao (姚铭洋)"
-description              : "Incoming ECE PhD Student @ University of Rochester"
+description              : "Incoming ECE PhD Student at the University of Rochester"
 repository               : "AndyWeasley2004.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,11 +25,12 @@ author:
   # Update this with your photo
   avatar           : "images/photo_2.jpg"
   bio              : 
+  pronouns         : "He / Him"
   location         : "San Diego, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sBRCuJYAAAAJ&hl=en"
-  email            : 
+  email            : "m5yao@ucsd.edu"
   researchgate     : 
   uri              :
   bitbucket        :

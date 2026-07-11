@@ -3,34 +3,52 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
+  - /education/
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<section class="content-card about-card" aria-labelledby="about-heading">
+  <h2 id="about-heading">About Me</h2>
 
-<span class='anchor' id='about-me'></span>
+  <p class="lead">I study how machines can understand, represent, and create music.</p>
 
-# 🎵 About Me  
+  <p>I am an incoming ECE PhD student in the <a href="https://labsites.rochester.edu/air/index.html">Audio Information Research Lab</a> at the University of Rochester, where I will be advised by <a href="https://hajim.rochester.edu/ece/sites/zduan/">Prof. Zhiyao Duan</a>. My research interests include music generation, music information retrieval, and representation learning.</p>
 
-Hello! My name is **Mingyang Yao (姚铭洋)**. I am incoming PhD student of [Audio Information Research Lab](https://labsites.rochester.edu/air/index.html) at University of Rochester under supervision of [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). My research interests lie in music generation, information retrieval and representation learning.
+  <p>I completed a double major in Mathematics–Computer Science and Cognitive Science (Machine Learning and Neural Computation) at UC San Diego. My previous research mentors and advisors include <a href="https://www.knutchen.com/">Ke Chen</a>, <a href="https://cseweb.ucsd.edu/~tberg/">Prof. Taylor Berg-Kirkpatrick</a>, <a href="https://scholar.google.com/citations?user=NJfiIl8AAAAJ&hl=en">Prof. Shlomo Dubnov</a>, and <a href="https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr">Prof. Francesca Telese</a>.</p>
 
-Previously, I finished my double major of Mathematics-Computer Science and Cognitive with specialization in Machine Learning and Neural Computation from UC San Diego. In UCSD, I was fortunate to be advised by wonderful mentor [Ke Chen](https://www.knutchen.com/). I was adviced by Professor [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/) and [Shlomo Dubnov](https://scholar.google.com/citations?user=NJfiIl8AAAAJ&hl=en) as well. Outside my AI music interest, I also lead data analysis project in psychiatry and involve other data mining projects under supervision of Professor [Francesca Telese](https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr)
+  <p class="availability">I am open to research internships, collaborations, and other inquiries.</p>
 
-**For potential internship, collaboration and inquiries, please feel free to contact me!**
+  <div class="interest-chips" aria-label="Research interests">
+    <span>Music Generation</span>
+    <span>Music Information Retrieval</span>
+    <span>Representation Learning</span>
+  </div>
+</section>
 
-# 🔥 News
-* 2026.04, my FEDUPP paper is accepted by Translational Psychiatry, finishing all projects in my undergraduate!
-* 2026.03, I will join University of Rochester as ECE PhD student!  
-* 2026.02, I served as Program Chair (PC) in IJCAI AI and Health Track 2026.  
-* 2025.12, I graduated from UCSD with Cum Laude! 
+<section class="content-card" aria-labelledby="education-heading">
+  <h2 id="education-heading">Education</h2>
 
----
+  <div class="timeline">
+    <article class="timeline-item">
+      <div class="timeline-dot" aria-hidden="true"></div>
+      <div class="timeline-heading">
+        <h3>PhD in Electrical &amp; Computer Engineering</h3>
+        <span>Starting Aug 2026</span>
+      </div>
+      <p>University of Rochester</p>
+      <p class="timeline-detail">Advisor: Prof. Zhiyao Duan</p>
+    </article>
 
-*Last Updated: April 2026*
+    <article class="timeline-item">
+      <div class="timeline-dot" aria-hidden="true"></div>
+      <div class="timeline-heading">
+        <h3>BS, UC San Diego</h3>
+        <span>Sep 2022 – Dec 2025</span>
+      </div>
+      <p>Mathematics–Computer Science · Cognitive Science, Machine Learning and Neural Computation</p>
+      <p class="timeline-detail">GPA: 3.93 · Cum Laude</p>
+    </article>
+  </div>
+</section>

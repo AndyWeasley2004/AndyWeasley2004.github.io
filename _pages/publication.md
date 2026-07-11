@@ -1,26 +1,60 @@
 ---
 permalink: /publication/
-title: "Publication"
+title: "Publications"
 author_profile: true
 ---
 
-# 📜 Selective Publication
+<section class="content-card page-intro">
+  <h2>Publications</h2>
+  <p>Selected work in music understanding, music generation, and computational behavioral analysis.</p>
+</section>
 
-**denotes equal contribution*
+<section class="content-card publication-list" aria-label="Selected publications">
+  <article class="publication-card">
+    <div class="publication-visual publication-visual--contain">
+      <img src="/images/publications/bachi.png" alt="BACHI model architecture and confidence-ordered decoding pipeline">
+    </div>
+    <div class="publication-body">
+      <span class="venue">ICASSP 2026</span>
+      <h3>BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked Iterative Decoding on Pop and Classical Music</h3>
+      <p class="authors"><strong>Mingyang Yao</strong>, Ke Chen, Shlomo Dubnov, Taylor Berg-Kirkpatrick</p>
+      <div class="publication-links">
+        <a href="https://arxiv.org/abs/2510.06528">Paper</a>
+        <a href="https://andyweasley2004.github.io/BACHI/">Demo</a>
+        <a href="https://github.com/AndyWeasley2004/BACHI_Chord_Recognition">Code</a>
+      </div>
+    </div>
+  </article>
 
-**2025**
+  <article class="publication-card">
+    <div class="publication-visual publication-visual--contain">
+      <img src="/images/publications/generality-mastery.png" alt="Two-stage Generality-to-Mastery symbolic music generation pipeline">
+    </div>
+    <div class="publication-body">
+      <span class="venue">AIMC 2025 · Oral</span>
+      <h3>From Generality to Mastery: Composer-Style Symbolic Music Generation via Large-Scale Pre-training</h3>
+      <p class="authors"><strong>Mingyang Yao</strong>, Ke Chen</p>
+      <div class="publication-links">
+        <a href="https://arxiv.org/abs/2506.17497">Paper</a>
+        <a href="https://generality-mastery.github.io/">Demo</a>
+        <a href="https://github.com/AndyWeasley2004/Generality-to-Mastery">Code</a>
+      </div>
+    </div>
+  </article>
 
-- **BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked Iterative Decoding on Pop and Classical Music**  
-  **Mingyang Yao**, Ke Chen, Shlomo Dubnov, Taylor Berg-Kirkpatrick  
-  (ICASSP 2026) IEEE International Conference on Acoustics, Speech, and Signal Processing 2026  
-  [paper](https://arxiv.org/abs/2510.06528), [demo page](https://andyweasley2004.github.io/BACHI/), [code](https://github.com/AndyWeasley2004/BACHI_Chord_Recognition)
-
-- **From Generality to Mastery: Composer‑Style Symbolic Music Generation via Large‑Scale Pre‑training**  
-  **Mingyang Yao**, Ke Chen  
-  AI Music Creativity 2025 (Oral)  
-  [paper](https://arxiv.org/abs/2506.17497), [demo page](https://generality-mastery.github.io/), [code](https://github.com/AndyWeasley2004/Generality-to-Mastery)
-
-- **The development of FEDUPP: Feeding Experimentation Device Users Processing Package to Assess Learning and Cognitive Flexibility**  
-  **Mingyang Yao<sup>*</sup>**, Avraham M Libster<sup>*</sup> , Shane Desfor, Freiya Malhotra, Nathalia Castorena, Patricia Montilla-Perez, Francesca Telese  
-  Nature Translatonal Psychiatry  
-  [paper](https://www.biorxiv.org/content/10.1101/2025.08.14.670424v1.abstract), [code](https://github.com/ftlabucsd/FED3-data)
+  <article class="publication-card">
+    <div class="publication-visual publication-visual--cover">
+      <img src="/images/publications/fedupp.png" alt="FEDUPP behavioral paradigm and analysis pipeline">
+    </div>
+    <div class="publication-body">
+      <span class="venue">Translational Psychiatry 2026</span>
+      <h3>The Development of FEDUPP: Feeding Experimentation Device Users Processing Package to Assess Learning and Cognitive Flexibility</h3>
+      <p class="authors"><strong>Mingyang Yao*</strong>, Avraham M. Libster*, Shane Desfor, Freiya Malhotra, Nathalia Castorena, Patricia Montilla-Perez, Francesca Telese</p>
+      <p class="author-note">* Equal contribution</p>
+      <div class="publication-links">
+        <a href="https://www.nature.com/articles/s41398-026-04091-6">Paper</a>
+        <a href="https://github.com/ftlabucsd/FED3-data">Code</a>
+      </div>
+    </div>
+  </article>
+</section>

@@ -4,11 +4,44 @@ title: "Service"
 author_profile: true
 ---
 
-# 🤝 Public Service
-- *2026.02 - 2026.03*, Bronze Tier Reviewer, IJCAI - AI and Health Track
+<section class="content-card page-intro">
+  <h2>Service</h2>
+  <p>Academic reviewing and teaching contributions.</p>
+</section>
 
-# 📚 Teaching
+<section class="content-card">
+  <h2>Academic Service</h2>
+  <div class="service-grid">
+    <article class="service-card service-card--featured">
+      <span class="service-date">May 2026</span>
+      <h3>Reviewer · ISMIR 2026</h3>
+      <p>International Society for Music Information Retrieval Conference</p>
+    </article>
+    <article class="service-card">
+      <span class="service-date">Feb – Mar 2026</span>
+      <h3>Bronze Tier Reviewer</h3>
+      <p>IJCAI 2026 · AI and Health Track</p>
+    </article>
+  </div>
+</section>
 
-- *2024.09 - 2024.12*, Grader, **Intro to Differential Equations (Math 20D)**
-- *2024.04 - 2024.06*, Grader, **Discrete Math and Graph Theory (Math 154)**
-- *2023.09 - 2023.12*, Instructional Apprentice, **Intro to Python (Cogs 18)** 
+<section class="content-card">
+  <h2>Teaching</h2>
+  <div class="timeline compact-timeline">
+    <article class="timeline-item">
+      <div class="timeline-dot" aria-hidden="true"></div>
+      <div class="timeline-heading"><h3>Grader · Intro to Differential Equations</h3><span>Sep – Dec 2024</span></div>
+      <p>UC San Diego · MATH 20D</p>
+    </article>
+    <article class="timeline-item">
+      <div class="timeline-dot" aria-hidden="true"></div>
+      <div class="timeline-heading"><h3>Grader · Discrete Math and Graph Theory</h3><span>Apr – Jun 2024</span></div>
+      <p>UC San Diego · MATH 154</p>
+    </article>
+    <article class="timeline-item">
+      <div class="timeline-dot" aria-hidden="true"></div>
+      <div class="timeline-heading"><h3>Instructional Apprentice · Intro to Python</h3><span>Sep – Dec 2023</span></div>
+      <p>UC San Diego · COGS 18</p>
+    </article>
+  </div>
+</section>
