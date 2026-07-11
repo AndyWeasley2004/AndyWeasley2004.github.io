@@ -25,6 +25,10 @@
             </section>
           </div>
         </article>
+
+        {% if page.url == '/' %}
+          <footer class="site-credit">Design inspired by <a href="https://jinghanyang.com/" target="_blank" rel="noopener">Jinghan Yang’s website</a>.</footer>
+        {% endif %}
       </main>
 
       {% if page.url == '/' %}{% include news-rail.html %}{% endif %}

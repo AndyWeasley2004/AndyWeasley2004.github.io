@@ -4,11 +4,6 @@ title: "Publications"
 author_profile: true
 ---
 
-<section class="content-card page-intro">
-  <h2>Publications</h2>
-  <p>Selected work in music understanding, music generation, and computational behavioral analysis.</p>
-</section>
-
 <section class="content-card publication-list" aria-label="Selected publications">
   <article class="publication-card">
     <div class="publication-visual publication-visual--contain">

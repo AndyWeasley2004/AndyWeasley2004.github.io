@@ -6,13 +6,7 @@ redirect_from:
   - /awards-and-certificates/
 ---
 
-<section class="content-card page-intro">
-  <h2>Experience</h2>
-  <p>A home for future internships, alongside selected awards and credentials.</p>
-</section>
-
-<section class="content-card internship-feature" aria-labelledby="internship-heading">
-  <div class="internship-label">Featured</div>
+<section class="content-card" aria-labelledby="internship-heading">
   <h2 id="internship-heading">Internships</h2>
   <p>I am currently open to research internship opportunities in music AI, machine learning, and related areas.</p>
 </section>

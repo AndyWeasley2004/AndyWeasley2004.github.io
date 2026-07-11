@@ -4,11 +4,6 @@ title: "Favorite Piano Pieces"
 author_profile: true
 ---
 
-<section class="content-card page-intro">
-  <h2>Favorite Piano Pieces</h2>
-  <p>A personal listening shelf spanning classical repertoire and anime piano arrangements.</p>
-</section>
-
 <section class="content-card piano-section">
   <h2>Classical</h2>
   <div class="piano-grid">

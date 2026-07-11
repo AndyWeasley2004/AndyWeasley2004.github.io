@@ -4,11 +4,6 @@ title: "Service"
 author_profile: true
 ---
 
-<section class="content-card page-intro">
-  <h2>Service</h2>
-  <p>Academic reviewing and teaching contributions.</p>
-</section>
-
 <section class="content-card">
   <h2>Academic Service</h2>
   <div class="service-grid">

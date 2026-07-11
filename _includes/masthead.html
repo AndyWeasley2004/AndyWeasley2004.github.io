@@ -1,7 +1,12 @@
 <header class="masthead">
-  <nav class="site-tabs" aria-label="Primary navigation">
-    {% for link in site.data.navigation.main %}
-      <a class="site-tab {% if page.url == link.url %}active{% endif %}" href="{{ link.url }}" {% if page.url == link.url %}aria-current="page"{% endif %}>{{ link.title }}</a>
-    {% endfor %}
-  </nav>
+  <div class="masthead-row">
+    <nav class="site-tabs" aria-label="Primary navigation">
+      {% for link in site.data.navigation.main %}
+        <a class="site-tab {% if page.url == link.url %}active{% endif %}" href="{{ link.url }}" {% if page.url == link.url %}aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+    <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch to dark mode" aria-pressed="false">
+      <i class="fas fa-moon" aria-hidden="true"></i>
+    </button>
+  </div>
 </header>

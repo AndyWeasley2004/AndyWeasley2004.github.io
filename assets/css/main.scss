@@ -110,21 +110,21 @@ h1:before, .anchor:before {
 
 /* Personal site redesign */
 :root {
-    --site-bg: #f4f6f8;
+    --site-bg: #f6fbff;
     --surface: #ffffff;
-    --ink: #1f2a37;
-    --ink-soft: #5f6c79;
-    --ink-faint: #8995a1;
-    --line: #e1e7ed;
-    --line-soft: #edf1f5;
-    --accent: #4e6f8e;
-    --accent-dark: #315472;
-    --accent-wash: #eef3f8;
-    --highlight: #c98cdc;
-    --highlight-dark: #9d4eb4;
-    --highlight-wash: #f8effb;
-    --shadow: 0 1px 2px rgba(31, 42, 55, .04), 0 10px 30px rgba(31, 42, 55, .06);
-    --shadow-raised: 0 4px 12px rgba(31, 42, 55, .06), 0 20px 46px rgba(31, 42, 55, .10);
+    --ink: #283a4c;
+    --ink-soft: #65798e;
+    --ink-faint: #91a7bc;
+    --line: #dcecf9;
+    --line-soft: #eaf4fb;
+    --accent: #4e9edc;
+    --accent-dark: #2f78b2;
+    --accent-wash: #edf8ff;
+    --highlight: #a8d7ff;
+    --highlight-dark: #4a9bd7;
+    --highlight-wash: #f2faff;
+    --shadow: 0 1px 2px rgba(57, 130, 183, .035), 0 10px 30px rgba(57, 130, 183, .065);
+    --shadow-raised: 0 4px 12px rgba(57, 130, 183, .055), 0 20px 46px rgba(57, 130, 183, .10);
     --radius: 18px;
     --radius-small: 12px;
 }
@@ -303,7 +303,14 @@ a:focus-visible {
     box-shadow: none !important;
 }
 
+.masthead-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
 .site-tabs {
+    flex: 1;
     position: sticky;
     top: 18px;
     z-index: 20;
@@ -313,7 +320,7 @@ a:focus-visible {
     padding: 6px;
     border: 1px solid var(--line);
     border-radius: 999px;
-    background: rgba(255, 255, 255, .94);
+    background: var(--surface);
     box-shadow: var(--shadow);
     backdrop-filter: blur(12px);
 }
@@ -336,9 +343,34 @@ a:focus-visible {
 }
 
 .site-tab.active {
-    background: linear-gradient(135deg, #91add0, #d49ae2);
-    box-shadow: 0 5px 14px rgba(181, 127, 205, .28);
+    background: linear-gradient(135deg, #a9dcff, #70b8ec);
+    box-shadow: 0 5px 14px rgba(92, 167, 223, .26);
     color: #fff;
+}
+
+.theme-toggle {
+    display: grid;
+    flex: none;
+    place-items: center;
+    width: 45px;
+    height: 45px;
+    padding: 0;
+    border: 1px solid var(--line);
+    border-radius: 50%;
+    background: var(--surface);
+    box-shadow: var(--shadow);
+    color: var(--accent);
+    cursor: pointer;
+    font-size: .93rem;
+    transition: background .18s ease, color .18s ease, border .18s ease, transform .18s ease;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+    border-color: var(--accent);
+    background: var(--accent-wash);
+    color: var(--accent-dark);
+    transform: translateY(-1px);
 }
 
 .page,
@@ -403,7 +435,7 @@ a:focus-visible {
 
 .content-card p {
     margin: 0 0 13px;
-    color: #34414d;
+    color: var(--ink-soft);
     font-size: .93rem;
 }
 
@@ -412,26 +444,19 @@ a:focus-visible {
 }
 
 .content-card p a {
-    border-bottom: 1px solid rgba(78, 111, 142, .3);
     color: var(--accent);
     font-weight: 600;
+    text-decoration: none !important;
+    box-shadow: none !important;
 }
 
 .content-card p a:hover,
 .content-card p a:focus-visible {
-    border-color: var(--accent-dark);
     background: var(--accent-wash);
     color: var(--accent-dark);
-}
-
-.about-card .lead {
-    margin-bottom: 16px;
-    color: var(--ink);
-    font-family: "Newsreader", Georgia, serif;
-    font-size: 1.42rem;
-    font-weight: 500;
-    letter-spacing: -.015em;
-    line-height: 1.4;
+    text-decoration: underline !important;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
 }
 
 .availability {
@@ -445,7 +470,20 @@ a:focus-visible {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
+    margin-top: 9px;
+}
+
+.interest-label {
     margin-top: 20px;
+    color: var(--accent);
+    font-size: .7rem;
+    font-weight: 700;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+
+.interest-label i {
+    margin-right: 4px;
 }
 
 .interest-chips span {
@@ -537,14 +575,6 @@ a:focus-visible {
     color: var(--ink-faint);
 }
 
-.page-intro p {
-    max-width: 620px;
-    color: var(--ink-soft);
-    font-family: "Newsreader", Georgia, serif;
-    font-size: 1.18rem;
-    line-height: 1.5;
-}
-
 .news-rail {
     position: sticky;
     top: 30px;
@@ -608,14 +638,14 @@ a:focus-visible {
     position: absolute;
     inset: 0 auto 0 0;
     width: 3px;
-    background: linear-gradient(180deg, #79a6d3, #d889dc);
+    background: linear-gradient(180deg, #b7e1ff, #74bbed);
     opacity: 0;
     transition: opacity .2s ease;
 }
 
 .news-item:hover {
-    border-color: #a7b9ca;
-    background: #fff;
+    border-color: var(--accent);
+    background: var(--surface);
     box-shadow: var(--shadow);
     transform: translateX(4px);
 }
@@ -659,8 +689,8 @@ a:focus-visible {
 
 .publication-card {
     display: grid;
-    grid-template-columns: 220px minmax(0, 1fr);
-    gap: 18px;
+    grid-template-columns: minmax(270px, 42%) minmax(0, 1fr);
+    gap: 22px;
     align-items: center;
     margin-bottom: 13px;
     padding: 15px;
@@ -674,7 +704,7 @@ a:focus-visible {
 }
 
 .publication-card:hover {
-    border-color: #a8bacb;
+    border-color: var(--accent);
     box-shadow: var(--shadow);
     transform: translateX(3px);
 }
@@ -684,11 +714,11 @@ a:focus-visible {
     align-items: center;
     justify-content: center;
     width: 100%;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 11 / 5;
     overflow: hidden;
     border: 1px solid var(--line);
     border-radius: 9px;
-    background: #fff;
+    background: var(--surface);
 }
 
 .publication-visual img {
@@ -702,7 +732,7 @@ a:focus-visible {
 }
 
 .publication-visual--contain img {
-    padding: 7px;
+    padding: 9px;
     object-fit: contain;
 }
 
@@ -713,8 +743,7 @@ a:focus-visible {
 .venue,
 .service-date,
 .award-year,
-.piano-tag,
-.internship-label {
+.piano-tag {
     display: inline-block;
     padding: 3px 9px;
     border-radius: 999px;
@@ -787,13 +816,13 @@ a:focus-visible {
 }
 
 .service-card--featured {
-    border-color: #d8b2e3;
-    background: linear-gradient(135deg, var(--highlight-wash), #f5f8fb);
+    border-color: #b9def7;
+    background: linear-gradient(135deg, var(--highlight-wash), var(--surface));
 }
 
 .service-card:hover,
 .award-card:hover {
-    border-color: #a8bacb;
+    border-color: var(--accent);
     box-shadow: var(--shadow);
     transform: translateY(-2px);
 }
@@ -813,32 +842,6 @@ a:focus-visible {
     color: var(--ink-soft);
     font-size: .78rem;
     line-height: 1.45;
-}
-
-.internship-feature {
-    position: relative;
-    overflow: hidden;
-    border-color: #d5a9df;
-    background: linear-gradient(135deg, #fff 0%, #f9f0fb 100%);
-    box-shadow: 0 4px 18px rgba(173, 101, 191, .09), var(--shadow);
-}
-
-.internship-feature::after {
-    content: "";
-    position: absolute;
-    top: -75px;
-    right: -65px;
-    width: 190px;
-    height: 190px;
-    border-radius: 50%;
-    background: radial-gradient(circle, rgba(201, 140, 220, .18), rgba(201, 140, 220, 0) 70%);
-    pointer-events: none;
-}
-
-.internship-feature .internship-label {
-    margin-bottom: 13px;
-    background: var(--highlight);
-    color: #fff;
 }
 
 .award-grid {
@@ -871,8 +874,8 @@ a:focus-visible {
 
 .piano-card:hover,
 .piano-card:focus-visible {
-    border-color: #a8bacb;
-    background: #fff;
+    border-color: var(--accent);
+    background: var(--surface);
     box-shadow: var(--shadow);
     color: inherit;
     transform: translateY(-2px);
@@ -937,6 +940,53 @@ a:focus-visible {
     background: var(--highlight-wash);
     color: var(--highlight-dark);
     font-size: .58rem;
+}
+
+html[data-theme="dark"] {
+    color-scheme: dark;
+    --site-bg: #0d1927;
+    --surface: #15263a;
+    --ink: #e8f5ff;
+    --ink-soft: #b5caDC;
+    --ink-faint: #89a4bb;
+    --line: #29445c;
+    --line-soft: #20374d;
+    --accent: #84caff;
+    --accent-dark: #c2e7ff;
+    --accent-wash: #1c3851;
+    --highlight: #73bdf3;
+    --highlight-dark: #a4dcff;
+    --highlight-wash: #18334a;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .16), 0 10px 30px rgba(0, 0, 0, .2);
+    --shadow-raised: 0 4px 12px rgba(0, 0, 0, .2), 0 20px 46px rgba(0, 0, 0, .28);
+}
+
+html[data-theme="dark"] .site-tab.active {
+    background: linear-gradient(135deg, #579bcf, #2d6896);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, .2);
+}
+
+html[data-theme="dark"] .publication-links a:hover,
+html[data-theme="dark"] .publication-links a:focus-visible {
+    color: var(--surface);
+}
+
+.site-credit {
+    margin: 2px 0 0;
+    color: var(--ink-faint);
+    font-size: .74rem;
+    text-align: center;
+}
+
+.site-credit a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.site-credit a:hover,
+.site-credit a:focus-visible {
+    color: var(--accent);
 }
 
 @media (max-width: 1180px) {
