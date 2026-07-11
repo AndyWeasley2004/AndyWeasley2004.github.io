@@ -112,8 +112,8 @@ h1:before, .anchor:before {
 :root {
     --site-bg: #f6fbff;
     --surface: #ffffff;
-    --ink: #1f3144;
-    --ink-soft: #526a81;
+    --ink: #34393f;
+    --ink-soft: #595f66;
     --ink-faint: #91a7bc;
     --line: #dcecf9;
     --line-soft: #eaf4fb;
@@ -167,7 +167,7 @@ a:focus-visible {
 
 .inner-page .site-shell {
     grid-template-columns: 260px minmax(0, 1fr);
-    max-width: 1160px !important;
+    max-width: 1420px !important;
 }
 
 .site-content {
@@ -738,7 +738,7 @@ a:focus-visible {
 
 .publication-visual--architecture img {
     padding: 0;
-    transform: scale(1.12);
+    transform: scale(1.18);
 }
 
 .publication-body {
