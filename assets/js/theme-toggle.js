@@ -1,7 +1,12 @@
 (function () {
   var button = document.querySelector('[data-theme-toggle]');
+  var mediaQuery = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)');
 
   if (!button) return;
+
+  function savedTheme() {
+    try { return localStorage.getItem('theme'); } catch (error) { return null; }
+  }
 
   function updateButton() {
     var isDark = document.documentElement.dataset.theme === 'dark';
@@ -14,9 +19,18 @@
 
   button.addEventListener('click', function () {
     document.documentElement.dataset.theme = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
-    localStorage.setItem('theme', document.documentElement.dataset.theme);
+    try { localStorage.setItem('theme', document.documentElement.dataset.theme); } catch (error) {}
     updateButton();
   });
+
+  if (mediaQuery) {
+    mediaQuery.addEventListener('change', function (event) {
+      if (!savedTheme()) {
+        document.documentElement.dataset.theme = event.matches ? 'dark' : 'light';
+        updateButton();
+      }
+    });
+  }
 
   updateButton();
 }());

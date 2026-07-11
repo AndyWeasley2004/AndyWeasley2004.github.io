@@ -112,8 +112,8 @@ h1:before, .anchor:before {
 :root {
     --site-bg: #f6fbff;
     --surface: #ffffff;
-    --ink: #283a4c;
-    --ink-soft: #65798e;
+    --ink: #1f3144;
+    --ink-soft: #526a81;
     --ink-faint: #91a7bc;
     --line: #dcecf9;
     --line-soft: #eaf4fb;
@@ -736,6 +736,11 @@ a:focus-visible {
     object-fit: contain;
 }
 
+.publication-visual--architecture img {
+    padding: 0;
+    transform: scale(1.12);
+}
+
 .publication-body {
     min-width: 0;
 }
@@ -969,6 +974,23 @@ html[data-theme="dark"] .site-tab.active {
 html[data-theme="dark"] .publication-links a:hover,
 html[data-theme="dark"] .publication-links a:focus-visible {
     color: var(--surface);
+}
+
+body.page-changing article.page,
+body.page-changing .news-rail {
+    opacity: 0;
+    transform: translateY(5px);
+}
+
+article.page,
+.news-rail {
+    transition: opacity .13s ease, transform .13s ease;
+}
+
+body.page-entering article.page,
+body.page-entering .news-rail {
+    opacity: 0;
+    transform: translateY(5px);
 }
 
 .site-credit {

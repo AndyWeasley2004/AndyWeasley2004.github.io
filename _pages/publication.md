@@ -6,7 +6,7 @@ author_profile: true
 
 <section class="content-card publication-list" aria-label="Selected publications">
   <article class="publication-card">
-    <div class="publication-visual publication-visual--contain">
+    <div class="publication-visual publication-visual--contain publication-visual--architecture">
       <img src="/images/publications/bachi.png" alt="BACHI model architecture and confidence-ordered decoding pipeline">
     </div>
     <div class="publication-body">
@@ -22,7 +22,7 @@ author_profile: true
   </article>
 
   <article class="publication-card">
-    <div class="publication-visual publication-visual--contain">
+    <div class="publication-visual publication-visual--contain publication-visual--architecture">
       <img src="/images/publications/generality-mastery.png" alt="Two-stage Generality-to-Mastery symbolic music generation pipeline">
     </div>
     <div class="publication-body">

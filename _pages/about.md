@@ -20,9 +20,9 @@ redirect_from:
 
   <div class="interest-label"><i class="fas fa-fw fa-flag" aria-hidden="true"></i> Research Interests</div>
   <div class="interest-chips">
-    <span>Music Generation</span>
-    <span>Music Information Retrieval</span>
-    <span>Representation Learning</span>
+    <span><strong>Music Generation</strong></span>
+    <span><strong>Music Information Retrieval</strong></span>
+    <span><strong>Representation Learning</strong></span>
   </div>
 </section>
 
@@ -37,7 +37,7 @@ redirect_from:
         <span>Starting Aug 2026</span>
       </div>
       <p>University of Rochester</p>
-      <p class="timeline-detail">Advisor: Prof. Zhiyao Duan</p>
+      <p class="timeline-detail">Advisor: Zhiyao Duan</p>
     </article>
 
     <article class="timeline-item">
@@ -48,6 +48,7 @@ redirect_from:
       </div>
       <p>Mathematics–Computer Science · Cognitive Science, Machine Learning and Neural Computation</p>
       <p class="timeline-detail">GPA: 3.93 · Cum Laude</p>
+      <p class="timeline-detail">Advisors: Ke Chen, Taylor Berg-Kirkpatrick, Shlomo Dubnov, Francesca Telese</p>
     </article>
   </div>
 </section>
