@@ -59,11 +59,11 @@ author_profile: true
     </a>
     <a class="piano-card" href="https://www.youtube.com/watch?v=gFO_GqHxOpY" target="_blank" rel="noopener">
       <div class="piano-thumb"><img src="https://img.youtube.com/vi/gFO_GqHxOpY/hqdefault.jpg" alt=""><span class="play-button" aria-hidden="true">▶</span></div>
-      <div><h3>Kizuna Music</h3><p>BanG Dream!</p></div>
+      <div><span class="piano-tag">Idealized, unattainable love</span><h3>Kizuna Music</h3><p>BanG Dream!</p></div>
     </a>
     <a class="piano-card" href="https://www.youtube.com/watch?v=Z4KmL4KI0cQ&amp;list=RDZ4KmL4KI0cQ&amp;start_radio=1" target="_blank" rel="noopener">
       <div class="piano-thumb"><img src="https://img.youtube.com/vi/Z4KmL4KI0cQ/hqdefault.jpg" alt=""><span class="play-button" aria-hidden="true">▶</span></div>
-      <div><h3>Snow halation</h3><p>Love Live! School Idol Project</p></div>
+      <div><span class="piano-tag">Touching Heart</span><h3>Snow halation</h3><p>Love Live! School Idol Project</p></div>
     </a>
   </div>
 </section>
