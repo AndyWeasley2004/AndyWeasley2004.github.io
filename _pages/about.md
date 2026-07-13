@@ -16,7 +16,7 @@ redirect_from:
 
   <p>I completed a double major in Mathematics–Computer Science and Cognitive Science (Machine Learning and Neural Computation) at UC San Diego. I am fortunate to be advised by wonderful mentor <a href="https://www.knutchen.com/">Dr. Ke Chen</a>. I am also advised by <a href="https://cseweb.ucsd.edu/~tberg/">Prof. Taylor Berg-Kirkpatrick</a>, <a href="https://scholar.google.com/citations?user=NJfiIl8AAAAJ&hl=en">Prof. Shlomo Dubnov</a>, and <a href="https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr">Prof. Francesca Telese</a>.</p>
 
-  <p class="availability">I am open to research internships, collaborations, and other inquiries.</p>
+  <p class="availability">I am open to research internships, collaborations, and any other casual talk!</p>
 
   <div class="interest-label"><i class="fas fa-fw fa-flag" aria-hidden="true"></i> Research Interests</div>
   <div class="interest-chips">
