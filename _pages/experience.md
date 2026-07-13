@@ -15,6 +15,11 @@ redirect_from:
   <h2>Awards &amp; Certificates</h2>
   <div class="award-grid">
     <article class="award-card">
+      <span class="award-year">2025</span>
+      <h3>Cumma Laude (top 14%)</h3>
+      <p>Academic distinction</p>
+    </article>
+    <article class="award-card">
       <span class="award-year">2022 – 2025</span>
       <h3>UC San Diego Provost Honors</h3>
       <p>Academic distinction</p>
