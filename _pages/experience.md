@@ -13,7 +13,7 @@ redirect_from:
 
 <section class="content-card">
   <h2>Talk & Media</h2>
-  <div class="award-grid award-grid--feature">
+  <div class="award-grid">
     <a class="award-card" href="https://qi.ucsd.edu/beyond-the-song-generator-how-uc-san-diego-students-are-rethinking-ai-and-music/" target="_blank" rel="noopener">
       <span class="award-year">June 2026</span>
       <h3>Beyond the Song Generator: How UC San Diego Students Are Rethinking AI and Music</h3>
