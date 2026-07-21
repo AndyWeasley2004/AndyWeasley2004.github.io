@@ -17,6 +17,7 @@ author_profile: true
         <a href="https://arxiv.org/abs/2510.06528">Paper</a>
         <a href="https://andyweasley2004.github.io/BACHI/">Demo</a>
         <a href="https://github.com/AndyWeasley2004/BACHI_Chord_Recognition">Code</a>
+        <a href="/assets/posters/bachi-icassp-2026.pdf">Poster</a>
       </div>
     </div>
   </article>
