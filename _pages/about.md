@@ -12,7 +12,7 @@ redirect_from:
 <section class="content-card about-card" aria-labelledby="about-heading">
   <h2 id="about-heading">About Me</h2>
 
-  <p>I am an incoming ECE PhD student in the <a href="https://labsites.rochester.edu/air/index.html">Audio Information Research Lab</a> at the University of Rochester, where I will be advised by <a href="https://hajim.rochester.edu/ece/sites/zduan/">Prof. Zhiyao Duan</a>. My research interests include music generation, music information retrieval, and representation learning.</p>
+  <p>I am a first-year ECE PhD student in the <a href="https://labsites.rochester.edu/air/index.html">Audio Information Research Lab</a> at the University of Rochester, where I will be advised by <a href="https://hajim.rochester.edu/ece/sites/zduan/">Prof. Zhiyao Duan</a>. My research interests include music generation, music information retrieval, and representation learning.</p>
 
   <p>I completed a double major in Mathematics–Computer Science and Cognitive Science (Machine Learning and Neural Computation) at UC San Diego. I am fortunate to be advised by wonderful mentor <a href="https://www.knutchen.com/">Dr. Ke Chen</a>. I am also advised by <a href="https://cseweb.ucsd.edu/~tberg/">Prof. Taylor Berg-Kirkpatrick</a>, <a href="https://scholar.google.com/citations?user=NJfiIl8AAAAJ&hl=en">Prof. Shlomo Dubnov</a>, and <a href="https://www.teleselab.com/team-1/principal-investigator-dt3zz-2jdk9-csgbr">Prof. Francesca Telese</a>.</p>
 
