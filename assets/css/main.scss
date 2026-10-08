@@ -992,6 +992,23 @@ body.page-entering .news-rail {
     transform: translateY(5px);
 }
 
+.visitor-map {
+    margin: 24px 0 16px;
+    text-align: center;
+}
+
+.visitor-map > span {
+    position: relative;
+    margin-right: 0 !important;
+}
+
+.visitor-map__link {
+    display: block;
+    margin-top: 8px;
+    color: var(--ink-faint);
+    font-size: .74rem;
+}
+
 .site-credit {
     margin: 2px 0 0;
     color: var(--ink-faint);
