@@ -993,20 +993,38 @@ body.page-entering .news-rail {
 }
 
 .visitor-map {
-    margin: 24px 0 16px;
+    margin: 0 0 24px;
+    padding: 26px 28px;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: var(--surface);
+    box-shadow: 0 3px 12px rgba(25, 40, 60, .06);
+}
+
+.visitor-map > h2 {
+    margin: 0 0 20px;
+    padding: 0 0 14px;
+    border-bottom: 1px solid var(--line);
+    color: var(--ink);
+    font-size: 1.15rem;
+}
+
+.visitor-map-widget {
+    max-width: 360px;
+    margin: 0 auto;
     text-align: center;
 }
 
-.visitor-map > span {
-    position: relative;
-    margin-right: 0 !important;
+.visitor-map-widget img,
+.visitor-map-widget iframe {
+    max-width: 100%;
 }
 
-.visitor-map__link {
-    display: block;
-    margin-top: 8px;
-    color: var(--ink-faint);
-    font-size: .74rem;
+@media (max-width: 600px) {
+    .visitor-map {
+        padding: 20px 18px;
+        margin-bottom: 18px;
+    }
 }
 
 .site-credit {
