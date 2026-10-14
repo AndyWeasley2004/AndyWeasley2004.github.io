@@ -1,10 +1,30 @@
 ---
 permalink: /publication/
-title: "Publications"
+title: "Selective Publication"
 author_profile: true
 ---
 
-<section class="content-card publication-list" aria-label="Selected publications">
+<section class="content-card publication-list" aria-labelledby="publication-heading">
+  <h2 id="publication-heading">Selective Publication</h2>
+
+  <article class="publication-card">
+    <div class="publication-visual publication-visual--contain publication-visual--architecture">
+      <img src="/images/publications/taste.png" alt="TASTE autoregressive and diffusion model architectures for text-conditioned symbolic piano generation">
+    </div>
+    <div class="publication-body">
+      <span class="venue">Preprint · 2026</span>
+      <h3>TASTE: Taxonomy-Aware Symbolic Piano Generation from Textual Description</h3>
+      <p class="authors"><strong>Mingyang Yao</strong>, Jingyue Huang, Ke Chen, Taylor Berg-Kirkpatrick, Shlomo Dubnov</p>
+      <div class="publication-links">
+        <a href="https://arxiv.org/abs/2610.15960">Paper</a>
+        <a href="https://taste-piano.github.io/">Demo</a>
+        <a href="https://github.com/AndyWeasley2004/TASTE">Code</a>
+        <a href="https://huggingface.co/datasets/Itsuki-music/TASTE">Data</a>
+        <a href="https://huggingface.co/Itsuki-music/TASTE">Model</a>
+      </div>
+    </div>
+  </article>
+
   <article class="publication-card">
     <div class="publication-visual publication-visual--contain publication-visual--architecture">
       <img src="/images/publications/bachi.png" alt="BACHI model architecture and confidence-ordered decoding pipeline">
