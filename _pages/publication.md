@@ -9,7 +9,7 @@ author_profile: true
 
   <article class="publication-card">
     <div class="publication-visual publication-visual--contain publication-visual--architecture">
-      <img src="/images/publications/taste.png" alt="TASTE autoregressive and diffusion model architectures for text-conditioned symbolic piano generation">
+      <img src="/images/publications/taste.png" alt="TASTE taxonomy of musical intention, textual controls, and evaluation targets">
     </div>
     <div class="publication-body">
       <span class="venue">Preprint · 2026</span>
