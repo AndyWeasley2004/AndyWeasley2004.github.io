@@ -30,6 +30,23 @@
     else if (next) document.querySelector('.site-content').appendChild(next);
   }
 
+  function replaceVisitorMap(nextDocument) {
+    var current = document.querySelector('.visitor-map');
+    var next = nextDocument.querySelector('.visitor-map');
+    if (current) current.remove();
+    if (!next) return;
+
+    document.querySelector('article.page').after(next);
+    next.querySelectorAll('script').forEach(function (script) {
+      var replacement = document.createElement('script');
+      Array.from(script.attributes).forEach(function (attribute) {
+        replacement.setAttribute(attribute.name, attribute.value);
+      });
+      replacement.textContent = script.textContent;
+      script.replaceWith(replacement);
+    });
+  }
+
   function loadPage(url, pushState) {
     var article = document.querySelector('article.page');
     if (!article) return;
@@ -48,6 +65,7 @@
         window.setTimeout(function () {
           document.body.className = nextDocument.body.className + ' page-entering';
           article.replaceWith(nextArticle);
+          replaceVisitorMap(nextDocument);
           replaceCredit(nextDocument);
           replaceNewsRail(nextDocument);
           document.title = nextDocument.title;
