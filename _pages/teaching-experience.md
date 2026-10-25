@@ -7,12 +7,12 @@ author_profile: true
 <section class="content-card">
   <h2>Academic Service</h2>
   <div class="service-grid">
-    <article class="service-card service-card--featured">
+    <article class="service-card">
       <span class="service-date">Oct 2026</span>
       <h3>Reviewer · ICLR 2027</h3>
       <p>International Conference on Learning Representations</p>
     </article>
-    <article class="service-card service-card--featured">
+    <article class="service-card">
       <span class="service-date">Oct 2026</span>
       <h3>Reviewer · ICASSP 2027</h3>
       <p>IEEE International Conference on Acoustics, Speech and Signal Processing</p>
