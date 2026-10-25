@@ -8,6 +8,16 @@ author_profile: true
   <h2>Academic Service</h2>
   <div class="service-grid">
     <article class="service-card service-card--featured">
+      <span class="service-date">Oct 2026</span>
+      <h3>Reviewer · ICLR 2027</h3>
+      <p>International Conference on Learning Representations</p>
+    </article>
+    <article class="service-card service-card--featured">
+      <span class="service-date">Oct 2026</span>
+      <h3>Reviewer · ICASSP 2027</h3>
+      <p>IEEE International Conference on Acoustics, Speech and Signal Processing</p>
+    </article>
+    <article class="service-card">
       <span class="service-date">May 2026</span>
       <h3>Reviewer · ISMIR 2026</h3>
       <p>International Society for Music Information Retrieval Conference</p>
