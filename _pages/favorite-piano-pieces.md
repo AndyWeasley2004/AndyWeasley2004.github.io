@@ -67,3 +67,13 @@ author_profile: true
     </a>
   </div>
 </section>
+
+<section class="content-card piano-section">
+  <h2>Game Piano Arrangements</h2>
+  <div class="piano-grid">
+    <a class="piano-card" href="https://www.bilibili.com/video/BV1Q4411F7be/" target="_blank" rel="noopener">
+      <div class="piano-thumb"><img src="https://i1.hdslb.com/bfs/archive/a7e9ec471c8edd0bebf094fe1bc8173817ddc1ec.jpg" alt="" referrerpolicy="no-referrer"><span class="play-button" aria-hidden="true">▶</span></div>
+      <div><h3>Whereabouts of the Stars (星之所在)</h3><p>The Legend of Heroes: Trails in the Sky · Animenz</p></div>
+    </a>
+  </div>
+</section>
